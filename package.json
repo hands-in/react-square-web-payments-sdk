@@ -1,27 +1,16 @@
 {
-  "name": "react-square-web-payments-sdk",
+  "name": "@hands-in/react-square-web-payments-sdk",
   "version": "3.2.1",
-  "homepage": "https://weareseeed.github.io/react-square-web-payments-sdk/",
+  "homepage": "https://github.com/hands-in/react-square-web-payments-sdk/",
   "bugs": {
-    "url": "https://github.com/weareseeed/react-square-web-payments-sdk/issues"
+    "url": "https://github.com/hands-in/react-square-web-payments-sdk/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:weareseeed/react-square-web-payments-sdk.git"
+    "url": "git@github.com:hands-in/react-square-web-payments-sdk.git"
   },
   "license": "MIT",
-  "author": "Seeed LLC. <sales@seeed.us> (https://seeed.us)",
-  "contributors": [
-    {
-      "name": "Daniel Esteves",
-      "email": "me+github@danestves.com",
-      "url": "https://danestves.com"
-    },
-    {
-      "name": "Gabriel De Andrade",
-      "email": "gabrieldeandradeleal@gmail.com"
-    }
-  ],
+  "author": "Hands In Ltd. (https://handsin.com)",
   "sideEffects": false,
   "exports": {
     ".": {
