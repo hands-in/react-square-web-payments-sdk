@@ -431,17 +431,19 @@
     nanoid "^3.3.4"
     webpack "^5.74.0"
 
-"@square/web-payments-sdk-types@^1.1.1":
-  version "1.33.0"
-  resolved "https://registry.npmjs.org/@square/web-payments-sdk-types/-/web-payments-sdk-types-1.33.0.tgz"
+"@square/web-payments-sdk-types@^1.68.1":
+  version "1.70.0"
+  resolved "https://registry.yarnpkg.com/@square/web-payments-sdk-types/-/web-payments-sdk-types-1.70.0.tgz#a08f24678639c2a6d9fd9e06ed072c181981663d"
+  integrity sha512-+cizeH9R4GEU/G/I86/wWJb4X3/+DVwTnK8FAIQqHEF2+4Ou2TQJbA2n2BromyhmHxawW66bwebmFjRyioOgYQ==
   dependencies:
-    typescript "^4.1.0"
+    typescript "^4.9.5"
 
-"@square/web-sdk@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.npmjs.org/@square/web-sdk/-/web-sdk-2.0.1.tgz"
+"@square/web-sdk@^2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@square/web-sdk/-/web-sdk-2.1.0.tgz#f57ad38aadf8bdd84d95e71e3c02d93777424854"
+  integrity sha512-eeecdVyKAM01ak6zw2i1oKqOO1vMYqH/aH36XbXqleFeDImmfz9OnhrrIll8WuVN4YGSzWajUrqC8qtvQd878Q==
   dependencies:
-    "@square/web-payments-sdk-types" "^1.1.1"
+    "@square/web-payments-sdk-types" "^1.68.1"
 
 "@statoscope/extensions@5.14.1":
   version "5.14.1"
@@ -3771,9 +3773,14 @@ type-fest@^0.20.2:
   version "0.20.2"
   resolved "https://registry.npmjs.org/type-fest/-/type-fest-0.20.2.tgz"
 
-typescript@^4.1.0, typescript@^4.7.4:
+typescript@^4.7.4:
   version "4.7.4"
   resolved "https://registry.npmjs.org/typescript/-/typescript-4.7.4.tgz"
+
+typescript@^4.9.5:
+  version "4.9.5"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.9.5.tgz#095979f9bcc0d09da324d58d03ce8f8374cbe65a"
+  integrity sha512-1FXk9E2Hm+QzZQ7z+McJiHL4NW1F2EzMu9Nq9i3zAaGqibafqYwCVU6WyWAuyQRRzOlxou8xZSyXLEN8oKj24g==
 
 unbox-primitive@^1.0.2:
   version "1.0.2"
