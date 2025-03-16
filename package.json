@@ -47,7 +47,7 @@
     "size:why": "size-limit --why"
   },
   "dependencies": {
-    "@square/web-sdk": "^2.0.1",
+    "@square/web-sdk": "^2.1.0",
     "@stitches/react": "^1.2.8"
   },
   "devDependencies": {
